@@ -1,8 +1,8 @@
 {
   "name": "Lift Workout Tracker",
   "short_name": "Lift",
-  "description": "Full body workout tracker — sets, reps, RPE, rest timer, history",
-  "start_url": "/",
+  "description": "4-day PPL workout tracker: sets, reps, RIR, rest timer, history",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
@@ -20,5 +20,6 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "scope": "./"
 }
